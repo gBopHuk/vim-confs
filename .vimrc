@@ -1,4 +1,4 @@
-colorscheme xoria256
+colorscheme bubblegum
 set fencs=utf-8,cp1251,koi8-r,cp866
 set laststatus=2
 let g:airline_powerline_fonts = 1
