@@ -1,0 +1,6 @@
+Plugin 'vim_start.git'
+Plugin 'vim_start.git'
+Plugin 'vim-airline.git'
+Plugin 'vim-airline'
+Plugin 'vim-airline.git'
+Plugin 'vim-airline.git'

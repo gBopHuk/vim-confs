@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/srv/akv/Projects/git'
+let g:netrw_dirhist_2='/home/akv/.config/awesome'
+let g:netrw_dirhist_3='/home/akv/Projects'
+let g:netrw_dirhist_4='/srv/akv/Projects/WINE'
+let g:netrw_dirhist_5='/srv/akv/Projects/WINE/eter-2.1'
+let g:netrw_dirhist_6='/home/akv/Projects'
+let g:netrw_dirhist_7='/srv/akv/Projects/Vbox/getscripts/wine'
